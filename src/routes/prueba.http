@@ -1,0 +1,4 @@
+POST http://localhost:3001/activities
+Content-Type: application/json
+
+{"countries":["Argentina", "Colombia"],"name": "FLy & Dream", "difficulty": "5", "duration": "2", "season": "Summer" }
